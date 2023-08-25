@@ -1,1 +1,2 @@
 # Youtube-clone
+I crafted a YouTube clone exclusively using HTML and CSS, concentrating on emulating the visual aspects and structure of the genuine platform. The project provides an interface for users to explore, discover, and view videos, although without interactive features. By focusing on layout precision, design fidelity, and responsiveness, I aimed to create a static representation of YouTube. This undertaking deepened my proficiency in HTML and CSS, showcasing my capability to replicate complex designs without JavaScript's interactive functions.
